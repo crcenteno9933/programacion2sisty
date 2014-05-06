@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1398121219 source:c:\users\acer\documents\github\programacion2sisty\programa7\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
