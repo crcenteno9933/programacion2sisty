@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400799856 source:c:\users\acer\documents\github\programacion2sisty\arregloss\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

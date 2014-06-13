@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1401231865 source:c:\users\acer\documents\github\programacion2sisty\registrosarreglos2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

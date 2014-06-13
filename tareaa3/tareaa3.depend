@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1400187842 source:c:\users\acer\documents\github\programacion2sisty\tareaa3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+

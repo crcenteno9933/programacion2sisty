@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1401497526 source:c:\users\acer\documents\github\programacion2sisty\tareaarreglos2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
